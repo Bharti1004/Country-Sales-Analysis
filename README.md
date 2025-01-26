@@ -6,4 +6,4 @@ Developed a Power BI dashboard analyzing sales data by year, product line, and r
 
 ## Dashboard Interaction:
 - <a href="">Dashboard Outlook</a>
-- <a href="">View Dashboard</a>
+- <a href="https://github.com/Bharti1004/Country-Sales-Analysis/blob/main/dashboard_outlook.png">View Dashboard</a>
